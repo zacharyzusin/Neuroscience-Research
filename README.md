@@ -2,7 +2,7 @@
 
 This repository contains code developed for computational neuroscience research conducted at the Zuckerman Mind Brain and Behavior Institute at Columbia University. The research focused on quantifying mouse behavior during a standardized decision-making task using pose estimates and behavioral action segmentation. In the experimental setup, mice were required to turn a wheel to move a visual stimulus to the center of a screen to receive rewards. Our efforts were at tracking the spatial orientation of mouse body parts in order to predict discrete behavioral states the mouse was in as it performed the task.
 
-![Diagnostics](https://github.com/user-attachments/assets/cd0dca2d-c497-4ed1-822c-69451a287111)
+![Diagnostics](https://github.com/user-attachments/assets/Diagnostics.png)
    
 ## Diagnostic Pipeline Development
 
