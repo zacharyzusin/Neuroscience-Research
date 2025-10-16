@@ -69,4 +69,4 @@ Following model evaluation, I implemented methods to identify unique behavioral 
 
 ---
 
-*This research was conducted at the Zuckerman Mind Brain and Behavior Institute, Columbia University, as part of ongoing efforts by the Paninsk Lab to computationally model animal behavior during decision-making tasks.*
+*This research was conducted at the Zuckerman Mind Brain and Behavior Institute, Columbia University, as part of ongoing efforts by the Paninski Lab to computationally model animal behavior during decision-making tasks.*
